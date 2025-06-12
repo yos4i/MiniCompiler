@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "3ac_generator.h": "c"
+    },
+    "makefile.configureOnOpen": true
+}
